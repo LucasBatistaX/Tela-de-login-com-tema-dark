@@ -1,10 +1,11 @@
 <h1> Projeto Pagina de Login com tema dark </h1>
 
 
-<p> Este projeto foi desenvolvido com a intensão de colocar em pratica alguns estilos de CSS3 e animações de sites para desenvolvedores conforme algumas pesquisas que fiz no youtube.</p>
+<p> Este projeto foi desenvolvido com a intensão de colocar em pratica alguns estilos em CSS3 e animações de sites para desenvolvedores conforme algumas pesquisas que fiz no youtube.</p>
 
 <p> This project was developed with the intention of putting into practice some CSS3 styles and website animations for developers according to some research I did on youtube. </p>
 
+fonte das animações / animations source: https://storyset.com 
 
 resultado/ result.
 
