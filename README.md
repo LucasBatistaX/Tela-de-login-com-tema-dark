@@ -10,5 +10,5 @@ fonte das animações / animations source: https://storyset.com
 resultado/ result.
 
 <div align= "center">
-<img src="https://user-images.githubusercontent.com/111013228/186487638-9b80c789-66af-4800-8b6e-5da38d5f9399.PNG" width="700px"/>
+<img src="https://user-images.githubusercontent.com/111013228/186496538-bd7eca51-e32d-4236-a2ec-dba9d5ca07ac.PNG" width="700px"/>
 </div>
